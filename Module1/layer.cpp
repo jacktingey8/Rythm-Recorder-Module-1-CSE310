@@ -1,6 +1,7 @@
 #ifndef LAYER_H
 #define LAYER_H
-
+#include <list>
+using namespace std;
 
 class Layer { 
 public:

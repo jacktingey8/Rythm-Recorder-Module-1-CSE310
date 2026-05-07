@@ -16,7 +16,7 @@ int main() {
 
     mciSendStringA("open \"ding.wav\" type waveaudio alias bonk", NULL, 0, NULL);
     for (float r: rythm1){
-        std::string playCmd = "play bonk from " + to_string(layer1.getTone());
+        std::string playCmd = "play bonk from 1000";
         mciSendStringA(playCmd.c_str(), NULL, 0, NULL);
         Sleep(r);
     }
