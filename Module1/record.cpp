@@ -9,6 +9,7 @@ class Record : public Layer {
 private:
     list<float> _rythm;
 public:
+    // function that records the rythm of the user by measuring the time between each key press and storing it in a list of floats
      list<float> RecordRythm() override {
         
     cout << "Press Enter to start recording"<< endl;
