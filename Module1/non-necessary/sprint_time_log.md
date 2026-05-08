@@ -24,15 +24,22 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-Date - Category - Description - Minutes
+Date -  Minutes - Category - Description 
 
-4/2 7- 90min - IM - studied C++ 
+4/27- 90min - IM - studied C++ 
 4/28 - 90min  - MTG - planned project 
 4/29 - 120 min - IM - finished studying C++ 
 4/30 - 60min - MTG - Team meeting
 4/30 - 60min - IM - test C++ 
+5/1 - 120min - TP - set up repo and basics of project
 5/3 - 60 min - IM - study different libraries for project 
 5/4 - 60min - IM - got audio file to run and implement rythm 
+5/5 - 60 min - MTG - Class meeting to give out assignments 
+5/6 - 120 min - IM - explored plugins to help with the project. 
+5/7 - 30 min - MTG - organized roles and responsibilities 
+5/7 - 60 min - TP - creating wireframe and starting to turn it into code
+5/7 - 90 min - IM - finalized Module 1
+5/8 - 60 min - TP - Start basic layout of home page
 
 
 
@@ -43,7 +50,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         |              10:600            |
+|TP - Team Project              |              4:240            |
+|MTG - Class Meetings           |               4:240       |
+|**TOTAL**                      |               18:1080           |

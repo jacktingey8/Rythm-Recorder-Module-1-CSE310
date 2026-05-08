@@ -9,7 +9,8 @@ using namespace std;
 
 int main() {
 
-
+    cout << "Welcome to the Module 1" << endl;
+    cout << "Press enter to rythmically to record a rythm, press q once your done recording your rythm" << endl;
     Layer layer1;
     Record rec;
     list<float> rythm1 = rec.RecordRythm();
